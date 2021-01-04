@@ -13,7 +13,6 @@ export default function Home() {
   const [titleChoice, setTitleChoice] = useState("I am Malala");
   const [randNum, setRandNum] = useState(0);
   const [page, setPage] = useState(0);
-  const [listTitle, setListTitle] = useState(0);
 
   const randint = (min, max) => {
     return Math.floor(Math.random() * (max - min + 1)) + min;
@@ -82,7 +81,7 @@ export default function Home() {
        
       {page == 1 ? 
        <div>
-       <label className="text-xl font-bold px-5"htmlFor="genre">Genre: </label>
+       <label className="text-xl font-bold px-5" htmlFor="genre">Genre: </label>
        <input 
        id="genre" 
        value={genreChoice} 
@@ -93,7 +92,7 @@ export default function Home() {
       :
       page == 2 ?
       <div>
-      <label htmlFor="author">Author: </label>
+      <label className="text-xl font-bold px-5" htmlFor="author">Author: </label>
       <input 
       id="author" 
       value={authorChoice}
@@ -104,7 +103,7 @@ export default function Home() {
       :
       page == 3 ?
       <div>
-      <label htmlFor="title">Title: </label>
+      <label className="text-xl font-bold px-5" htmlFor="title">Title: </label>
       <input 
       id="title" 
       value={titleChoice}
