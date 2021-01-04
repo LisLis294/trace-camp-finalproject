@@ -1,0 +1,152 @@
+[
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J. K. Rowling",
+        "genre": ["Fantasy", "Fiction", "YA Fiction"],
+        "random_id": 1
+    },
+    {
+        "title": "An Abundance of Katherines",
+        "author": "John Green",
+        "genre": ["Romance", "YA Fiction", "Fiction"],
+        "random_id": 2
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "genre": ["Realistic Fiction", "Fiction"],
+        "random_id": 3
+    },
+    {
+        "title": "I am Malala",
+        "author": "Malala Yousafzai",
+        "genre": ["Autobiography", "Non-Fiction"],
+        "random_id": 4
+    },
+    {
+        "title": "The Graveyard Book",
+        "author": "Neil Gaiman",
+        "genre": ["Fantasy", "Fiction"],
+        "random_id": 5
+    },
+    {
+        "title": "Me and Earl and the Dying Girl",
+        "author": "Jesse Andrews",
+        "genre": ["YA Fiction", "Romance", "Fiction"],
+        "random_id": 6
+    },
+    {
+        "title": "Never Always Sometimes",
+        "author": "Adi Alsaid",
+        "genre": ["YA Fiction", "Romance", "Fiction"],
+        "random_id": 7
+    },
+    {
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "genre": "Fiction",
+        "random_id": 8
+    },
+    {
+        "title": "I'll Give You the Sun",
+        "author": "Jandy Nelson",
+        "genre": ["YA Fiction", "Romance", "Fiction"],
+        "random_id": 9
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "genre": ["Gothic Fiction", "Fiction"],
+        "random_id": 10
+    },
+    {
+        "title": "Sarah's Key",
+        "author": "Tatiana de Rosnay",
+        "genre": ["Historical Fiction", "Fiction"],
+        "random_id": 11
+    },
+    {
+        "title": "Murder on the Orient Express",
+        "author": "Agatha Christie",
+        "genre": ["Mystery", "Fiction"],
+        "random_id": 12
+    },
+    {
+        "title": "The Joy Luck Club",
+        "author": "Amy Tan",
+        "genre": ["Fiction", "Realistic Fiction"],
+        "random_id": 13
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": ["Dystopian Fiction", "Fiction"],
+        "random_id": 14
+    },
+    {
+        "title": "The Secret Life of Bees",
+        "author": "Sue Monk Kidd",
+        "genre": ["Realistic Fiction", "Fiction"],
+        "random_id": 15
+    },
+    {
+        "title": "Black Beauty",
+        "author": "Anna Sewell",
+        "genre": ["Historical Fiction", "Fiction"],
+        "random_id": 16
+    },
+    {
+        "title": "The Queen's Gambit",
+        "author": "Walter Tevis",
+        "genre": ["Realistic Fiction", "Fiction"],
+        "random_id": 17
+    },
+    {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "genre": ["Historical Fiction", "Fiction"],
+        "random_id": 18 
+    },
+    {
+        "title": "To All the Boys I've Loved Before",
+        "author": "Jenny Hsu",
+        "genre": ["Romance", "YA Fiction", "Fiction"],
+        "random_id": 19
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": ["Dystopian Fiction", "Fiction"],
+        "random_id": 20
+    },
+    {
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "genre": ["Realistic Fiction", "Fiction"],
+        "random_id": 21
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": ["Historical Fiction", "Fiction"],
+        "random_id": 22
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "genre": ["Historical Fiction", "Gothic Fiction"],
+        "random_id": 23
+    },
+    {
+        "title": "The House in the Cerulean Sea",
+        "author": "TJ Klune",
+        "genre": ["Fantasy", "Fiction"],
+        "random_id": 24
+    },
+    {
+        "title": "An Absolutely Remarkable Thing",
+        "author": "Hank Green",
+        "genre": ["Science Fiction","Fiction"],
+        "random_id": 25
+    }
+]
