@@ -10,7 +10,7 @@ export default function Home() {
   const bookMaker = p => <Book title={p.title} author={p.author} genre={p.genre}></Book>
   const [genreChoice, setGenreChoice] = useState("")
   const [authorChoice, setAuthorChoice] = useState("");
-  const [titleChoice, setTitleChoice] = useState("I am Malala");
+  const [titleChoice, setTitleChoice] = useState("");
   const [randNum, setRandNum] = useState(0);
   const [page, setPage] = useState(0);
 
